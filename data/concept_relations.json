@@ -446,5 +446,369 @@
     "type": "同一关系",
     "description": "浑沌是'无为'的意象化身——不凿不作",
     "event_id": "Z018"
+  },
+  {
+    "source": "河伯",
+    "target": "井蛙/夏虫/曲士",
+    "type": "寓言关系",
+    "description": "河伯的认知局限=井蛙拘于虚+夏虫笃于时+曲士束于教",
+    "event_id": "Z019"
+  },
+  {
+    "source": "〖小大〗",
+    "target": "相对性",
+    "type": "对反关系",
+    "description": "大小非绝对——中国如稊米，人如豪末",
+    "event_id": "Z019"
+  },
+  {
+    "source": "认知突破",
+    "target": "〖道〗",
+    "type": "工夫关系",
+    "description": "认识到自身局限→可与语大理→接近道",
+    "event_id": "Z019"
+  },
+  {
+    "source": "万川归海",
+    "target": "〖自然〗",
+    "type": "寓言关系",
+    "description": "海不自多→顺应自然→无为而治的意象",
+    "event_id": "Z019"
+  },
+  {
+    "source": "逻辑理性",
+    "target": "直观体验",
+    "type": "对反关系",
+    "description": "惠子vs庄子：分析vs直觉，分离vs合一",
+    "event_id": "Z020"
+  },
+  {
+    "source": "〖吾丧我〗",
+    "target": "知鱼之乐",
+    "type": "工夫关系",
+    "description": "破除成心→物我无间→感同身受",
+    "event_id": "Z020"
+  },
+  {
+    "source": "濠梁之辩",
+    "target": "〖齐物〗",
+    "type": "寓言关系",
+    "description": "物我界限消融→万物齐同",
+    "event_id": "Z020"
+  },
+  {
+    "source": "循其本",
+    "target": "直接体验",
+    "type": "同一关系",
+    "description": "回到原初体验而非逻辑推演",
+    "event_id": "Z020"
+  },
+  {
+    "source": "伯乐治马",
+    "target": "圣人治天下",
+    "type": "寓言关系",
+    "description": "伯乐烧剔刻雒=圣人推行仁义礼乐→都是对自然的破坏",
+    "event_id": "Z021"
+  },
+  {
+    "source": "〖自然〗",
+    "target": "素朴",
+    "type": "同一关系",
+    "description": "自然状态即素朴状态——未被文明污染",
+    "event_id": "Z021"
+  },
+  {
+    "source": "仁义礼乐",
+    "target": "〖德〗",
+    "type": "对反关系",
+    "description": "仁义产生于道德废弃之后——德全则仁义无用",
+    "event_id": "Z021"
+  },
+  {
+    "source": "至德之世",
+    "target": "〖无为〗",
+    "type": "同一关系",
+    "description": "不干预自然→民性自得→无为之治",
+    "event_id": "Z021"
+  },
+  {
+    "source": "圣知之法",
+    "target": "大盗之具",
+    "type": "对反关系",
+    "description": "圣法本为治世→反成盗具→制度异化",
+    "event_id": "Z022"
+  },
+  {
+    "source": "绝圣弃知",
+    "target": "〖无为〗",
+    "type": "工夫关系",
+    "description": "去除人为标准→回归自然→无为之治",
+    "event_id": "Z022"
+  },
+  {
+    "source": "含其德",
+    "target": "玄同",
+    "type": "同一关系",
+    "description": "内在德性不外显→万物和谐统一",
+    "event_id": "Z022"
+  },
+  {
+    "source": "田成子盗齐",
+    "target": "制度悖论",
+    "type": "寓言关系",
+    "description": "历史案例揭示制度可被权力工具化",
+    "event_id": "Z022"
+  },
+  {
+    "source": "醉者",
+    "target": "圣人",
+    "type": "对反关系",
+    "description": "无意识神全 vs 自觉神全——同果异因",
+    "event_id": "Z023"
+  },
+  {
+    "source": "〖神〗",
+    "target": "形",
+    "type": "体用关系",
+    "description": "神为体，形为用——神全则形自保",
+    "event_id": "Z023"
+  },
+  {
+    "source": "藏于天",
+    "target": "〖天〗",
+    "type": "工夫关系",
+    "description": "顺应天命→不受外伤→神全",
+    "event_id": "Z023"
+  },
+  {
+    "source": "死生惊惧",
+    "target": "神全",
+    "type": "对反关系",
+    "description": "恐惧破坏精神完整，无惧保持精神完整",
+    "event_id": "Z023"
+  },
+  {
+    "source": "不材保全",
+    "target": "不材致死",
+    "type": "对反关系",
+    "description": "同一特质在不同情境下产生相反结果——世事无常",
+    "event_id": "Z024"
+  },
+  {
+    "source": "材与不材之间",
+    "target": "与时俱化",
+    "type": "工夫关系",
+    "description": "超越固定立场→随变化而动→无累",
+    "event_id": "Z024"
+  },
+  {
+    "source": "物物",
+    "target": "不物于物",
+    "type": "对反关系",
+    "description": "主动运用vs被动役使——主体性的保持",
+    "event_id": "Z024"
+  },
+  {
+    "source": "与时俱化",
+    "target": "〖化〗",
+    "type": "同一关系",
+    "description": "与时变化即与道化同流",
+    "event_id": "Z024"
+  },
+  {
+    "source": "世俗之乐",
+    "target": "至乐",
+    "type": "对反关系",
+    "description": "依赖外物的快乐 vs 无待的至乐——前者伴焦虑，后者得安宁",
+    "event_id": "Z025"
+  },
+  {
+    "source": "富贵寿善",
+    "target": "〖自然〗",
+    "type": "对反关系",
+    "description": "人为追求的价值 vs 自然本真的状态",
+    "event_id": "Z025"
+  },
+  {
+    "source": "蹲循勿争",
+    "target": "〖命〗",
+    "type": "工夫关系",
+    "description": "接受命运限制→保全生命→顺应天命",
+    "event_id": "Z025"
+  },
+  {
+    "source": "无待",
+    "target": "〖逍遥〗",
+    "type": "同一关系",
+    "description": "不依赖外物→真正逍遥",
+    "event_id": "Z025"
+  },
+  {
+    "source": "技",
+    "target": "道",
+    "type": "体用关系",
+    "description": "技→事→义→德→道→天，层层递进的根本结构",
+    "event_id": "Z026"
+  },
+  {
+    "source": "无为",
+    "target": "万物化",
+    "type": "工夫关系",
+    "description": "不干预→万物自化→自然秩序",
+    "event_id": "Z026"
+  },
+  {
+    "source": "玄古之君",
+    "target": "天地",
+    "type": "寓言关系",
+    "description": "理想君主效法天地的自然无为",
+    "event_id": "Z026"
+  },
+  {
+    "source": "通于一",
+    "target": "〖道〗",
+    "type": "同一关系",
+    "description": "通达统一性即通达道",
+    "event_id": "Z026"
+  },
+  {
+    "source": "水静",
+    "target": "圣人之心",
+    "type": "寓言关系",
+    "description": "静水如镜→圣人心如明镜→如实反映万物",
+    "event_id": "Z027"
+  },
+  {
+    "source": "〖虚〗",
+    "target": "〖静〗",
+    "type": "工夫关系",
+    "description": "虚（无执着）→静（无干扰）→清明",
+    "event_id": "Z027"
+  },
+  {
+    "source": "虚静恬淡",
+    "target": "道德之至",
+    "type": "同一关系",
+    "description": "虚静状态即道德的最高境界",
+    "event_id": "Z027"
+  },
+  {
+    "source": "无为",
+    "target": "任事者责",
+    "type": "工夫关系",
+    "description": "统治者无为→下属各司其职→治理有效",
+    "event_id": "Z027"
+  },
+  {
+    "source": "五种士人",
+    "target": "圣人",
+    "type": "对反关系",
+    "description": "有所执vs无所执——刻意追求vs自然流露",
+    "event_id": "Z028"
+  },
+  {
+    "source": "不刻意",
+    "target": "〖自然〗",
+    "type": "同一关系",
+    "description": "不人为造作即自然状态",
+    "event_id": "Z028"
+  },
+  {
+    "source": "澹然无极",
+    "target": "众美从之",
+    "type": "工夫关系",
+    "description": "内心无限平静→美德自然显现",
+    "event_id": "Z028"
+  },
+  {
+    "source": "无不忘",
+    "target": "无不有",
+    "type": "对反关系",
+    "description": "放下一切→拥有一切——道家的辩证智慧",
+    "event_id": "Z028"
+  },
+  {
+    "source": "俗学缮性",
+    "target": "以恬养知",
+    "type": "对反关系",
+    "description": "人为修缮vs自然养护——前者蔽蒙，后者明智",
+    "event_id": "Z029"
+  },
+  {
+    "source": "知",
+    "target": "恬",
+    "type": "工夫关系",
+    "description": "知识与恬淡相互滋养→和谐理性自然流出",
+    "event_id": "Z029"
+  },
+  {
+    "source": "和理",
+    "target": "〖德〗",
+    "type": "同一关系",
+    "description": "德即和谐，道即理性——内在统一",
+    "event_id": "Z029"
+  },
+  {
+    "source": "道德完整",
+    "target": "仁义无用",
+    "type": "条件关系",
+    "description": "道德不废→无需仁义→次级价值的消解",
+    "event_id": "Z029"
+  },
+  {
+    "source": "可言说的智慧",
+    "target": "不可言说的德性",
+    "type": "对反关系",
+    "description": "溪工vs东郭顺子——言语可及vs境界超越",
+    "event_id": "Z030"
+  },
+  {
+    "source": "人貌而天虚",
+    "target": "〖虚〗",
+    "type": "同一关系",
+    "description": "外表为人，内心如天般虚空",
+    "event_id": "Z030"
+  },
+  {
+    "source": "葆真",
+    "target": "〖真〗",
+    "type": "工夫关系",
+    "description": "随顺外物而不失本真→保持真实",
+    "event_id": "Z030"
+  },
+  {
+    "source": "正容以悟之",
+    "target": "使人意消",
+    "type": "工夫关系",
+    "description": "端正仪容→自然感化→消除他人妄念",
+    "event_id": "Z030"
+  },
+  {
+    "source": "无为谓",
+    "target": "狂屈",
+    "type": "对反关系",
+    "description": "真知不可言vs近知不可达——境界差异",
+    "event_id": "Z031"
+  },
+  {
+    "source": "知者不言",
+    "target": "言者不知",
+    "type": "对反关系",
+    "description": "真正的知道超越言语，言语表达已是次级",
+    "event_id": "Z031"
+  },
+  {
+    "source": "道→德→仁→义→礼",
+    "target": "价值退化",
+    "type": "条件关系",
+    "description": "逐层失落的过程，礼为最末",
+    "event_id": "Z031"
+  },
+  {
+    "source": "无思无虑",
+    "target": "〖道〗",
+    "type": "工夫关系",
+    "description": "放下思虑→直接体道",
+    "event_id": "Z031"
   }
 ]
