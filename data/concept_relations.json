@@ -1,0 +1,450 @@
+[
+  {
+    "source": "〖化〗",
+    "target": "〖逍遥〗",
+    "type": "工夫关系",
+    "description": "鲲化为鹏象征突破形限、迈向更高境界",
+    "event_id": "Z001"
+  },
+  {
+    "source": "小",
+    "target": "大",
+    "type": "对反关系",
+    "description": "小大虽殊，各有所待——庄子破除大小二元对立",
+    "event_id": "Z001"
+  },
+  {
+    "source": "有所待",
+    "target": "无所待",
+    "type": "对反关系",
+    "description": "有待则非逍遥，无待方为真逍遥",
+    "event_id": "Z001"
+  },
+  {
+    "source": "〖无用〗",
+    "target": "〖逍遥〗",
+    "type": "工夫关系",
+    "description": "以天下为无用→不为外物所累→逍遥",
+    "event_id": "Z002"
+  },
+  {
+    "source": "名",
+    "target": "实",
+    "type": "对反关系",
+    "description": "名者实之宾——名依附于实，庄子强调质实而轻虚名",
+    "event_id": "Z002"
+  },
+  {
+    "source": "鹪鹩巢林",
+    "target": "〖自然〗",
+    "type": "寓言关系",
+    "description": "各取所需、不贪多的自然状态",
+    "event_id": "Z002"
+  },
+  {
+    "source": "〖无用〗",
+    "target": "〖用大〗",
+    "type": "对反关系",
+    "description": "世人以为无用，庄子以为有大用——颠覆性的价值翻转",
+    "event_id": "Z003"
+  },
+  {
+    "source": "〖无用〗",
+    "target": "〖逍遥〗",
+    "type": "工夫关系",
+    "description": "大瓠浮乎江湖，无用之物成就逍遥之游",
+    "event_id": "Z003"
+  },
+  {
+    "source": "不龟手之药",
+    "target": "〖用大〗",
+    "type": "寓言关系",
+    "description": "同一药方，用法不同则效用迥异——视角决定价值",
+    "event_id": "Z003"
+  },
+  {
+    "source": "〖无用〗",
+    "target": "全生",
+    "type": "工夫关系",
+    "description": "无所可用→不夭斤斧→保全天性、终其天年",
+    "event_id": "Z004"
+  },
+  {
+    "source": "〖无用〗",
+    "target": "〖逍遥〗",
+    "type": "工夫关系",
+    "description": "无所可用→无所困苦→逍遥寝卧",
+    "event_id": "Z004"
+  },
+  {
+    "source": "狸狌（有用）",
+    "target": "樗树（无用）",
+    "type": "对反关系",
+    "description": "小巧有用者死于机辟，大而无用者免于斤斧——价值彻底反转",
+    "event_id": "Z004"
+  },
+  {
+    "source": "无何有之乡",
+    "target": "〖逍遥〗",
+    "type": "同一关系",
+    "description": "无何有之乡即逍遥之境的意象表达",
+    "event_id": "Z004"
+  },
+  {
+    "source": "〖吾丧我〗",
+    "target": "〖齐物〗",
+    "type": "工夫关系",
+    "description": "丧我→破除成心→万物齐同",
+    "event_id": "Z005"
+  },
+  {
+    "source": "天籁",
+    "target": "〖自然〗",
+    "type": "寓言关系",
+    "description": "天籁即自然——万物自鸣，无使之者",
+    "event_id": "Z005"
+  },
+  {
+    "source": "人籁/地籁",
+    "target": "天籁",
+    "type": "对反关系",
+    "description": "人籁有待（人造），地籁有待（风吹），天籁无待——自取而已",
+    "event_id": "Z005"
+  },
+  {
+    "source": "〖吾丧我〗",
+    "target": "形如槁木心如死灰",
+    "type": "寓言关系",
+    "description": "丧我的外在表现——感官关闭，成心消解",
+    "event_id": "Z005"
+  },
+  {
+    "source": "朝三暮四",
+    "target": "〖齐物〗",
+    "type": "寓言关系",
+    "description": "猴子之争喻世人执着名相——实质无差异而喜怒不同",
+    "event_id": "Z006"
+  },
+  {
+    "source": "两行",
+    "target": "〖齐物〗",
+    "type": "工夫关系",
+    "description": "两行即齐物的实践智慧——是非并行而不相害",
+    "event_id": "Z006"
+  },
+  {
+    "source": "名",
+    "target": "实",
+    "type": "对反关系",
+    "description": "名实未亏而喜怒为用——名相的力量盖过实质",
+    "event_id": "Z006"
+  },
+  {
+    "source": "辩无胜",
+    "target": "〖齐物〗",
+    "type": "工夫关系",
+    "description": "认识到辩论不能定是非→超越是非对立→齐物",
+    "event_id": "Z007"
+  },
+  {
+    "source": "天倪",
+    "target": "〖自然〗",
+    "type": "同一关系",
+    "description": "天倪即自然的公平——自然的调和等同万物",
+    "event_id": "Z007"
+  },
+  {
+    "source": "知止",
+    "target": "〖齐物〗",
+    "type": "工夫关系",
+    "description": "知止其所不知→不动于是非→齐物之境",
+    "event_id": "Z007"
+  },
+  {
+    "source": "庄周梦蝶",
+    "target": "〖化〗",
+    "type": "寓言关系",
+    "description": "梦蝶是物化的极致表达——物我界限消融",
+    "event_id": "Z008"
+  },
+  {
+    "source": "〖化〗",
+    "target": "〖齐物〗",
+    "type": "工夫关系",
+    "description": "物化体验→物我齐同→万物与我为一",
+    "event_id": "Z008"
+  },
+  {
+    "source": "梦",
+    "target": "觉",
+    "type": "对反关系",
+    "description": "梦觉的界限消失——齐物论最生动的表达",
+    "event_id": "Z008"
+  },
+  {
+    "source": "不知",
+    "target": "〖齐物〗",
+    "type": "工夫关系",
+    "description": "'不知周之梦为蝴蝶与'——不确知即是齐物的认知状态",
+    "event_id": "Z008"
+  },
+  {
+    "source": "庖丁解牛",
+    "target": "〖道〗",
+    "type": "寓言关系",
+    "description": "从解牛之技到养生之道——技进于道",
+    "event_id": "Z009"
+  },
+  {
+    "source": "无厚入有间",
+    "target": "〖逍遥〗",
+    "type": "工夫关系",
+    "description": "以无厚（虚心）入有间（世界缝隙）→游刃有余→逍遥",
+    "event_id": "Z009"
+  },
+  {
+    "source": "依乎天理",
+    "target": "〖自然〗",
+    "type": "同一关系",
+    "description": "依乎天理即顺其自然——不硬来、不造作",
+    "event_id": "Z009"
+  },
+  {
+    "source": "良庖/族庖",
+    "target": "庖丁",
+    "type": "对反关系",
+    "description": "割/折 vs 游刃——以力胜 vs 以道胜的对比",
+    "event_id": "Z009"
+  },
+  {
+    "source": "解牛三阶段",
+    "target": "坐忘",
+    "type": "工夫关系",
+    "description": "始见全牛（有我）→不见全牛（丧我）→以神遇（坐忘）",
+    "event_id": "Z009"
+  },
+  {
+    "source": "〖心斋〗",
+    "target": "〖虚〗",
+    "type": "同一关系",
+    "description": "心斋的核心就是'虚'——虚而待物",
+    "event_id": "Z010"
+  },
+  {
+    "source": "〖虚〗",
+    "target": "〖道〗",
+    "type": "工夫关系",
+    "description": "唯道集虚——心灵空虚处就是道到来的地方",
+    "event_id": "Z010"
+  },
+  {
+    "source": "〖心斋〗",
+    "target": "〖坐忘〗",
+    "type": "工夫关系",
+    "description": "心斋偏'虚'（空心以待），坐忘偏'通'（与道合一）",
+    "event_id": "Z010"
+  },
+  {
+    "source": "听之以耳",
+    "target": "听之以气",
+    "type": "工夫关系",
+    "description": "从感官→心知→气的层层超越——功夫进阶",
+    "event_id": "Z010"
+  },
+  {
+    "source": "散木（无用）",
+    "target": "文木（有用）",
+    "type": "对反关系",
+    "description": "有用→中道夭；无用→终天年——价值彻底翻转",
+    "event_id": "Z011"
+  },
+  {
+    "source": "〖无用〗",
+    "target": "全生",
+    "type": "工夫关系",
+    "description": "无所可用→不夭斤斧→终其天年",
+    "event_id": "Z011"
+  },
+  {
+    "source": "栎社树",
+    "target": "庄子",
+    "type": "寓言关系",
+    "description": "栎社树以社自保——庄子'寄身于世俗'的哲学自画像",
+    "event_id": "Z011"
+  },
+  {
+    "source": "求无所可用",
+    "target": "〖逍遥〗",
+    "type": "工夫关系",
+    "description": "主动求无用→摆脱被利用的命运→逍遥",
+    "event_id": "Z011"
+  },
+  {
+    "source": "〖命〗",
+    "target": "〖德〗",
+    "type": "工夫关系",
+    "description": "安命→不被外在困扰→德充于内",
+    "event_id": "Z012"
+  },
+  {
+    "source": "形骸之外",
+    "target": "形骸之内",
+    "type": "对反关系",
+    "description": "外形 vs 内心——庄子强调内在之德远胜外在之形",
+    "event_id": "Z012"
+  },
+  {
+    "source": "知不可奈何",
+    "target": "安之若命",
+    "type": "工夫关系",
+    "description": "承认不可改变+接受不可改变=安命",
+    "event_id": "Z012"
+  },
+  {
+    "source": "〖才全〗",
+    "target": "〖德〗",
+    "type": "同一关系",
+    "description": "才全即德的内在充实——不受外物干扰的稳定状态",
+    "event_id": "Z013"
+  },
+  {
+    "source": "〖德〗",
+    "target": "德不形",
+    "type": "工夫关系",
+    "description": "德充于内→自然不形于外→感召力无形中产生",
+    "event_id": "Z013"
+  },
+  {
+    "source": "死生穷达",
+    "target": "命之行",
+    "type": "对反关系",
+    "description": "外在变化（命）vs 内在稳定（德）——德者以不变应万变",
+    "event_id": "Z013"
+  },
+  {
+    "source": "相濡以沫",
+    "target": "相忘于江湖",
+    "type": "对反关系",
+    "description": "困境中的勉强互助 vs 自由中的自然相忘",
+    "event_id": "Z014"
+  },
+  {
+    "source": "相忘于江湖",
+    "target": "〖逍遥〗",
+    "type": "工夫关系",
+    "description": "忘掉彼此、忘掉社会束缚→逍遥自在",
+    "event_id": "Z014"
+  },
+  {
+    "source": "两忘而化其道",
+    "target": "〖齐物〗",
+    "type": "同一关系",
+    "description": "忘掉是非对错，化入大道——齐物的极致",
+    "event_id": "Z014"
+  },
+  {
+    "source": "安时而处顺",
+    "target": "〖命〗",
+    "type": "工夫关系",
+    "description": "安命不是认命，而是理解自然规律后的从容",
+    "event_id": "Z015"
+  },
+  {
+    "source": "大块载我以形",
+    "target": "〖天〗",
+    "type": "寓言关系",
+    "description": "身体和生命都是大自然暂时给予的形态",
+    "event_id": "Z015"
+  },
+  {
+    "source": "〖化〗",
+    "target": "生死",
+    "type": "工夫关系",
+    "description": "以'化'的眼光看生死——死不过是另一种形态的变化",
+    "event_id": "Z015"
+  },
+  {
+    "source": "〖坐忘〗",
+    "target": "〖吾丧我〗",
+    "type": "同一关系",
+    "description": "坐忘即丧我——忘掉形骸和智巧，破除虚伪自我",
+    "event_id": "Z016"
+  },
+  {
+    "source": "〖坐忘〗",
+    "target": "〖逍遥〗",
+    "type": "工夫关系",
+    "description": "坐忘→同于大通→逍遥无待",
+    "event_id": "Z016"
+  },
+  {
+    "source": "忘仁义",
+    "target": "忘礼乐",
+    "type": "工夫关系",
+    "description": "先摆脱社会规范→再摆脱文化习俗→最终坐忘",
+    "event_id": "Z016"
+  },
+  {
+    "source": "忘礼乐",
+    "target": "〖坐忘〗",
+    "type": "工夫关系",
+    "description": "忘礼乐之后才能进入坐忘阶段",
+    "event_id": "Z016"
+  },
+  {
+    "source": "四相",
+    "target": "〖虚〗",
+    "type": "工夫关系",
+    "description": "从地文→天壤→太冲→未始出吾宗，层层递进到'虚'",
+    "event_id": "Z017"
+  },
+  {
+    "source": "虚而委蛇",
+    "target": "〖道〗",
+    "type": "同一关系",
+    "description": "虚而委蛇即道的运作方式——无形无相而应万物",
+    "event_id": "Z017"
+  },
+  {
+    "source": "用心若镜",
+    "target": "〖心斋〗",
+    "type": "同一关系",
+    "description": "不将不逆应而不藏=心斋的'虚而待物'",
+    "event_id": "Z017"
+  },
+  {
+    "source": "雕琢复朴",
+    "target": "〖自然〗",
+    "type": "工夫关系",
+    "description": "列子去雕琢、归质朴——自然状态的回归",
+    "event_id": "Z017"
+  },
+  {
+    "source": "浑沌",
+    "target": "〖自然〗",
+    "type": "寓言关系",
+    "description": "浑沌是自然本然状态的意象——无分别、无造作",
+    "event_id": "Z018"
+  },
+  {
+    "source": "儵忽",
+    "target": "人为",
+    "type": "寓言关系",
+    "description": "儵忽的'好心改造'=人为对自然的破坏",
+    "event_id": "Z018"
+  },
+  {
+    "source": "开七窍",
+    "target": "死",
+    "type": "条件关系",
+    "description": "人为干预自然状态→自然的死亡",
+    "event_id": "Z018"
+  },
+  {
+    "source": "浑沌",
+    "target": "〖无为〗",
+    "type": "同一关系",
+    "description": "浑沌是'无为'的意象化身——不凿不作",
+    "event_id": "Z018"
+  }
+]
